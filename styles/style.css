@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  color: #23374d;
+  padding-top: 10px;
+}
+.soft {
+  text-decoration: underline;
+  line-height: 2;
+  color: #23374d;
+  font-weight: normal;
+}
+h1 {
+  margin: 0;
+  color: #23374d;
+}
+h2 {
+  color: white;
+  padding-top: 20px;
+}
+.island {
+  width: 20%;
+}
+.avatar-img {
+  padding-top: 30px;
+}
+.top-container {
+  background-color: #64b2cd;
+  padding-top: 6.25em;
+}
+.middle-container {
+  background-color: #3c70a4;
+}
+.middle-container p {
+  color: #d9eeec;
+}
+.bottom-container {
+  background-color: #da9833;
+  padding: 0 0 50px;
+}
+.introduction {
+  margin: auto;
+  width: 30%;
+  line-height: 2;
+}
+.top-cloud {
+  position: absolute;
+  top: 3.125em;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  padding-bottom: 30px;
+}
+.skills-img,
+.contact-img {
+  width: 10%;
+  margin: auto;
+}
+.backend-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.frontend-img {
+  width: 15%;
+  float: right;
+  margin-right: 30px;
+}
+.mobile-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.crab-img {
+  position: absolute;
+  left: 150px;
+}
+.sun-img {
+  position: relative;
+  bottom: 50px;
+}
+.seagull-img {
+  width: 7%;
+  position: absolute;
+  left: 200px;
+}
